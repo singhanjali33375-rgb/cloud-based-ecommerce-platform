@@ -166,4 +166,32 @@ architecture-diagram.png → Cloud architecture
 
 Md
 User -> Load Balancer -> Application Container -> Database
-(बाद में तुम diagram का image भी add कर सकती हो)
+# Cloud-Based E-Commerce Platform
+
+This project demonstrates a scalable cloud-based e-commerce platform using
+modern DevOps practices.
+
+## Features
+- Product listing
+- User authentication
+- Cart & checkout
+- Cloud deployment
+- CI/CD automation
+- Infrastructure as Code
+
+## Tech Stack
+- Frontend: React
+- Backend: Node.js
+- Containerization: Docker
+- CI/CD: GitHub Actions
+- Cloud: AWS
+- IaC: Terraform
+
+## Project Structure
+## Setup
+1. Clone the repo
+2. Build Docker image
+3. Deploy using Terraform
+
+## Author
+Anjali Singh
